@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="c7wall" size="1.000000 0.742654" />
+    <ImageTarget name="sign0" size="1.000000 0.618677" />
+    <ImageTarget name="gara" size="1.000000 0.740601" />
+    <ImageTarget name="sign1" size="1.000000 1.030612" />
+  </Tracking>
+</QCARConfig>
